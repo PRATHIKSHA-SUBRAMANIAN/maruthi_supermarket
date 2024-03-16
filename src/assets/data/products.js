@@ -1,7 +1,7 @@
 const products = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
+    productName: "Stone and Beam Westview",
     imgUrl: "https://img.freepik.com/free-psd/two-seater-gray-sofa-with-two-cushions-isolated_176382-98.jpg?w=826&t=st=1698583075~exp=1698583675~hmac=194b1790063871dad4bd996fac7b66a1c555ca9edb489b0e7e542cf8f349dc1b",
     category: "sofa",
     price: 19398,
